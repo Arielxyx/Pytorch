@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2104745-4e12-4f3d-a3f4-66a49385d69d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pzGel2SPL8Kitx33WzYJT5ImZm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Pytorch\TestPyTorch\testPyTorch\data" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Pytorch\TestPyTorch\testPyTorch" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.12_word_rnncell">
+    <configuration name="10_basic_cnn_gpu (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestPyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testPyTorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testPyTorch/10_basic_cnn_gpu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10_basic_cnn_gpu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestPyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testPyTorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testPyTorch/10_basic_cnn_gpu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="12_word_rnncell" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestPyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testPyTorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testPyTorch/12_word_rnncell.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="13_rnn_name_country_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestPyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testPyTorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testPyTorch/13_rnn_name_country_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2_linear_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TestPyTorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testPyTorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testPyTorch/2_linear_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.12_word_rnncell" />
+        <item itemvalue="Python.2_linear_model" />
+        <item itemvalue="Python.13_rnn_name_country_1 (1)" />
+        <item itemvalue="Python.10_basic_cnn_gpu (1)" />
+        <item itemvalue="Python.10_basic_cnn_gpu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2104745-4e12-4f3d-a3f4-66a49385d69d" name="Default Changelist" comment="" />
+      <created>1616178602202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616178602202</updated>
+      <workItem from="1616178603781" duration="683000" />
+      <workItem from="1616179353001" duration="513000" />
+      <workItem from="1616223593046" duration="2038000" />
+      <workItem from="1616553789487" duration="17341000" />
+      <workItem from="1616636469359" duration="3694000" />
+      <workItem from="1616769174068" duration="831000" />
+      <workItem from="1617172068474" duration="3769000" />
+      <workItem from="1617244213382" duration="617000" />
+      <workItem from="1617424401655" duration="7642000" />
+      <workItem from="1617592057043" duration="4503000" />
+      <workItem from="1617673318689" duration="6872000" />
+      <workItem from="1625386326028" duration="2531000" />
+      <workItem from="1625624096408" duration="1964000" />
+      <workItem from="1625705741569" duration="2561000" />
+      <workItem from="1625793406357" duration="12826000" />
+      <workItem from="1625882551466" duration="17180000" />
+      <workItem from="1626044172428" duration="15627000" />
+      <workItem from="1626182804248" duration="5013000" />
+      <workItem from="1626220399675" duration="17270000" />
+      <workItem from="1626332968550" duration="31017000" />
+      <workItem from="1626397941636" duration="3282000" />
+      <workItem from="1626660958269" duration="594000" />
+      <workItem from="1626667844485" duration="3295000" />
+      <workItem from="1626677344736" duration="5949000" />
+      <workItem from="1628320597394" duration="1391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="489" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625816624437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="489" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1625816624437" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1626673596751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1626673596751" />
+    <state width="1493" height="280" key="GridCell.Tab.0.bottom" timestamp="1626689803419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="280" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1626689803419" />
+    <state width="1493" height="280" key="GridCell.Tab.0.center" timestamp="1626689803419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="280" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1626689803419" />
+    <state width="1493" height="280" key="GridCell.Tab.0.left" timestamp="1626689803419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="280" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1626689803419" />
+    <state width="1493" height="280" key="GridCell.Tab.0.right" timestamp="1626689803419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="280" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1626689803419" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1626366935693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1626366935693" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1626366935693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1626366935693" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1626366935693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1626366935693" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1626366935693">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1626366935693" />
+    <state x="272" y="58" key="SettingsEditor" timestamp="1626669380534">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1626669380534" />
+    <state x="0" y="0" width="614" height="631" key="com.intellij.ide.util.TipDialog" timestamp="1626667846545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" width="614" height="631" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1626667846545" />
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1626357842034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="814" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1626357842034" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestPytorch$6_logistic_regression.coverage" NAME="6_logistic_regression Coverage Results" MODIFIED="1625731638955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$11.coverage" NAME="11 Coverage Results" MODIFIED="1616224803925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TestPytorch$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1616224942425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$5_e1.coverage" NAME="5_e1 Coverage Results" MODIFIED="1625908736583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$4_back_propagation.coverage" NAME="4_back_propagation Coverage Results" MODIFIED="1617178732464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$12_batchsize_first.coverage" NAME="12_batchsize_first Coverage Results" MODIFIED="1626190553620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$12_rnn.coverage" NAME="12_rnn Coverage Results" MODIFIED="1626190090786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$13_rnn_names__1_.coverage" NAME="13_rnn_names (1) Coverage Results" MODIFIED="1626399576915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$5_linear_regression_with_pytorch__1_.coverage" NAME="5_linear_regression_with_pytorch (1) Coverage Results" MODIFIED="1625797166701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$10_ex2.coverage" NAME="10_ex2 Coverage Results" MODIFIED="1626047002276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$12_embedding_layer__1_.coverage" NAME="12_embedding_layer (1) Coverage Results" MODIFIED="1626399189444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$6_logistic_regression__1_.coverage" NAME="6_logistic_regression (1) Coverage Results" MODIFIED="1625810669682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$9_ex3.coverage" NAME="9_ex3 Coverage Results" MODIFIED="1625913334320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$10_ex3.coverage" NAME="10_ex3 Coverage Results" MODIFIED="1626047140424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$11_residual_block.coverage" NAME="11_residual_block Coverage Results" MODIFIED="1626083398354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$13_rnn_name_country.coverage" NAME="13_rnn_name_country Coverage Results" MODIFIED="1626363639171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$12_embedding_layer.coverage" NAME="12_embedding_layer Coverage Results" MODIFIED="1626241399026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPyTorch$2_linear_model.coverage" NAME="2_linear_model Coverage Results" MODIFIED="1626677361207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$3_stochastic_gradient_descent.coverage" NAME="3_stochastic_gradient_descent Coverage Results" MODIFIED="1616641812947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$3_gradient_descent.coverage" NAME="3_gradient_descent Coverage Results" MODIFIED="1616639311646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$9_ex1.coverage" NAME="9_ex1 Coverage Results" MODIFIED="1625910894574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$12_word_rnn.coverage" NAME="12_word_rnn Coverage Results" MODIFIED="1626231668811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$gradient_descent.coverage" NAME="gradient_descent Coverage Results" MODIFIED="1616582275017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$10_ex4.coverage" NAME="10_ex4 Coverage Results" MODIFIED="1626047350927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$13_rnn_names.coverage" NAME="13_rnn_names Coverage Results" MODIFIED="1626366889189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$10_basic_cnn.coverage" NAME="10_basic_cnn Coverage Results" MODIFIED="1626399894043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$12_rnncell.coverage" NAME="12_rnncell Coverage Results" MODIFIED="1626186439665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$10_ex1.coverage" NAME="10_ex1 Coverage Results" MODIFIED="1626045819886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$linear_model_3d.coverage" NAME="linear_model_3d Coverage Results" MODIFIED="1616569326100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$11_inception_module.coverage" NAME="11_inception_module Coverage Results" MODIFIED="1626082548061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$13_rnn_name_country_1__1_.coverage" NAME="13_rnn_name_country_1 (1) Coverage Results" MODIFIED="1626669453223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$linear_model.coverage" NAME="linear_model Coverage Results" MODIFIED="1616578284968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$4_back_propagation__1_.coverage" NAME="4_back_propagation (1) Coverage Results" MODIFIED="1617436998758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$8_dataset_and_dataloader.coverage" NAME="8_dataset_and_dataloader Coverage Results" MODIFIED="1625820871541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$2_linear_model_3d.coverage" NAME="2_linear_model_3d Coverage Results" MODIFIED="1625394168696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$7_multiple_dimension_input.coverage" NAME="7_multiple_dimension_input Coverage Results" MODIFIED="1625810805573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$2_linear_model.coverage" NAME="2_linear_model Coverage Results" MODIFIED="1626669481819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPyTorch$12_word_rnncell.coverage" NAME="12_word_rnncell Coverage Results" MODIFIED="1626689792971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$5_linear_regression_with_pytorch.coverage" NAME="5_linear_regression_with_pytorch Coverage Results" MODIFIED="1625909945163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$9_ex2.coverage" NAME="9_ex2 Coverage Results" MODIFIED="1625913224476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$12_word_rnncell.coverage" NAME="12_word_rnncell Coverage Results" MODIFIED="1626669488756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$9_softmax_classifier.coverage" NAME="9_softmax_classifier Coverage Results" MODIFIED="1625922282136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$10_basic_cnn_gpu.coverage" NAME="10_basic_cnn_gpu Coverage Results" MODIFIED="1626400498659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+    <SUITE FILE_PATH="coverage/TestPytorch$10_basic_cnn_gpu__1_.coverage" NAME="10_basic_cnn_gpu (1) Coverage Results" MODIFIED="1626669406550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testPyTorch" />
+  </component>
+</project>
